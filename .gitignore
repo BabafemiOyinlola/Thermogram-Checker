@@ -1,0 +1,9 @@
+.idea/inspectionProfiles/Project_Default.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/thermograms-features.iml
+.idea/workspace.xml
+__pycache__/featureExtractor.cpython-36.pyc
+__pycache__/thermogramClassifier.cpython-36.pyc
+pattern_recognition/__pycache__/__init__.cpython-36.pyc
+pattern_recognition/__pycache__/anomalyDetection.cpython-36.pyc
